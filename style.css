@@ -1,0 +1,112 @@
+#container{
+				background-color:#5D00D7;
+				padding: 70px;
+				font-size: 50px;
+				text-align:center;
+				background-image: linear-gradient(120deg,#3e32a8,#e310c7);
+				color:white;
+				border-radius:0px 100px 0px           100px;
+				font-family: 'Secular One', sans-serif;	
+				}
+				
+	.marq{
+					padding: 20px;
+				 font-size: 40px;
+					background-color: #a8ff2e;
+					margin-top:50px;
+					color: #ff1723;
+					font-family: 'Courier Prime', monospace;
+       text-decoration:underline;
+					}	
+					
+	.pos{
+						width:45%;								
+									}
+									
+	.pos1{
+						width:48%;
+						float:left;
+						height:465px;									
+										}		
+										
+	.pos2{
+						width:48%;
+						padding:0px 0px 92px 0px;
+			   float:left;								
+											}	
+														
+	.bg{
+							       background-color:#EDF8FB;
+			   margin:40px 0px;
+									}		
+									
+	.fsize{
+		 			text-align:center;
+					font-size:25px;	
+					color:#F3271B;
+													}
+													
+	.btn{ 		
+					display: flex; 		
+					height: 40px; 					
+					justify-content: center; 				
+					align-items: center; 				
+					background-color: #FF2537;					
+					font-family: sans-serif; 	
+					cursor:pointer;	
+					border-radius:20px;		
+					} 						
+							
+	.btn1{ 
+							
+		  		padding: 5px 10px 5px 10px;						
+					display: inline-block; 					
+					color: white; 				
+					letter-spacing: 2px; 							
+					text-transform: uppercase;						
+					text-decoration: none;							
+					overflow: hidden; 			
+					font-weight:bold;
+							} 
+													
+ 	.btn1:hover { 	
+ 											
+					color: #111; 						
+					background: #39ff14; 			
+					box-shadow: 0 0 50px #39ff14;						
+							} 									
+	 	
+	 		.inp1{
+
+     border: 1px solid purple;
+     padding: 15px 20px;
+     border-radius:30px;
+     float:left;
+     width:45%;
+     margin-bottom:15px;
+     text-align:center;
+}
+	 		.inp2{
+	 					border: 1px solid purple;
+     padding: 15px 20px;
+     border-radius:30px;
+    
+     width:45%;
+     margin-bottom:15px;
+	 				display:block;		
+	 				margin-left:25%;	
+	 				text-align:center;	
+	 						}		
+	 						
+	 			.f{
+	 							
+	 				font-family: 'Ubuntu', sans-serif;
+
+      font-size:40px;		
+	 							
+	 							}	
+	 				.f1{
+	 								
+	 					font-family: 'Ubuntu',    sans-serif;
+		     font-size:20px;					
+	 								}									
